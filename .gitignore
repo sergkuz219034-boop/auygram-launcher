@@ -1,0 +1,15 @@
+# Игнорируем тяжелые бинарники и личные данные
+*.exe
+*.dll
+log*.txt
+tdata/
+user_data/
+dumps/
+emoji/
+temp/
+modules/
+*/tdata/
+*/user_data/
+*/log.txt
+*/AyuGram.exe
+*/Updater.exe
